@@ -1,0 +1,26 @@
+MY TECHNICAL:
+
+1) Selection fields - (D)
+2) HELPTEXT.MAINMENU - (D)
+3) No input (C)
+
+4) contract will be lost -  B
+5) PROTOCOL    
+6) COMPANY
+7) (c)
+
+
+8) USR.FIELD.NAME - (A)
+9) Set as NoChange 
+10) all mandatory fields - (C)
+11) USER app
+12) ASRDO
+13) Unauthorised record (D)
+14) TSA.STATUS (B) //doubt
+15) 2 (A)
+16) DATES (C)
+17) History (B)
+
+18) -DEBUG (D)
+19) (C)
+20) (C)
